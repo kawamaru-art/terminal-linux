@@ -12,7 +12,7 @@ def main():
             sleep(3)
             os.system("python home/" + files.readline() + "/terminal.py")
         elif p == "n":
-            print("install git in folder install-pankages")
+            print("open chrome https://git-scm.com/download/win")
     elif y == "n":
         sys.exit()
 
