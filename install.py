@@ -5,16 +5,8 @@ print("welcome to terminal like linux")
 print("make your new account for this terminal")
 print("usernames without number")
 p = input("new username: ")
-h = input("hostname custm is recomended default/custom: ")
+h = input("hostname: ")
 i = input("password: ")
-
-if h == "custom":
-    yeah = input("hostname: ")
-elif h == "default":
-    print("hostname default")
-else:
-    print("sorry we got error in hostname make sure you make again account")
-
 os.system("cd home && mkdir " + p )
 files = open("user/share/jasp/username.txt",'w')
 files.write(p)
