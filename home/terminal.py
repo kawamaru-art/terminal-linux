@@ -51,8 +51,8 @@ def terminal():
         print("install                      install pankages")
         print("list pankages                check pangkages")
         terminal()
-     elif gj == "nise update":
-          done = False
+    elif gj == "nise update":
+        done = False
         def loading():
                 for c in itertools.cycle(['|','/','-','|','/','-','|']):
                     if done:
