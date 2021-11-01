@@ -1,5 +1,6 @@
 import os
 
+yeah = ("nise")
 os.system("cls")
 print("welcome to terminal like linux")
 print("make your new account for this terminal")
