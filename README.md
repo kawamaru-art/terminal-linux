@@ -1,4 +1,5 @@
 # terminal-linux
+This terminal like Linux but not for Linux this for windows
 
 # NEW
 * default(hostname)
