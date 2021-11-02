@@ -1,7 +1,7 @@
 # terminal-linux
 
 # NEW
-* default
+* default(hostname)
 * camera-security
 * version
 
