@@ -1,5 +1,12 @@
 # terminal-linux
 
+# NEW
+* default
+* camera-security
+* version
+
+### how upgrade?
+* `nise upgrade`
 ## requirement
 
 <a href="https://www.python.org/downloads/">python</a>
