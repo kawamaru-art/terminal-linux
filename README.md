@@ -1,4 +1,4 @@
-# CLOSED
+# terminal like LINUX
 This terminal like Linux but not for Linux this for windows
 
 # NEW
