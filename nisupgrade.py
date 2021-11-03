@@ -1,6 +1,6 @@
 import os
 from time import sleep
-print("\ncamera-security,version,default\n")
+print("camera-security,version,default\n")
 n = input("are you sure to upgrade pankages? y/n: ")
 if n == "y":
   files = input("your username: ")
