@@ -85,7 +85,7 @@ def terminal():
         time.sleep(10)
         done = True
         print("pankages up to date")
-        print("\nNew Pankages:\n")
+        print("\nNew Pankages:")
         os.system("python nisupgrade.py")
         
     elif gj == "list pankages":
