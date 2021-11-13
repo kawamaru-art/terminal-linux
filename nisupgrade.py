@@ -7,7 +7,7 @@ if n == "y":
   os.system("git clone https://github.com/Yeahboi12356/update && cp update/terminal.py home/" + files + " && cp update/delnis.py delnis.py && py delnis.py")
 elif n == "n":
   print("restarting terminal")
-  os.system("py start-terminal.py")
+  os.system("start-terminal.exe")
 else:
     print("number not valid")
     os.system("py nisupgrade.py")
