@@ -4,6 +4,7 @@ This terminal like Linux but not for Linux this for windows
 # NEW
 * default(hostname)
 * camera-security
+* phoneinfoga
 * version
 
 ### how upgrade?
@@ -16,16 +17,10 @@ This terminal like Linux but not for Linux this for windows
 * dont forget to select windows shell in installation git
 ## installation
 
-* `python install.py`
-* or
-* `py install.py`
+* clik install.exe
 
 ## finishing
-* `python cleaning.py`
-*  or
-* `py cleaning.py`
+* clik cleaning.exe`
 
 ## starting-terminal
-* `python start-terminal.py`
-*  or
-*  `py start-terminal.py`
+* clik start-terminal.exe
