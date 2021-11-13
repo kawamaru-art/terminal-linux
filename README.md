@@ -20,7 +20,7 @@ This terminal like Linux but not for Linux this for windows
 * clik install.exe
 
 ## finishing
-* clik cleaning.exe`
+* clik cleaning.exe
 
 ## starting-terminal
 * clik start-terminal.exe
