@@ -5,4 +5,4 @@ cls
 del home\terminal.py
 del home\%NAME%\terminal.py
 copy "update/terminal.py" home\%NAME%
-py delnis.py
+python uipdate.py
